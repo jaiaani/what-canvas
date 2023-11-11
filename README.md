@@ -8,5 +8,3 @@ I used [LiveCodes](https://livecodes.io/) to evaluate the results :
 
 ![](a.gif)
 
-https://github.com/jaiaani/what-canvas/assets/93359672/b5ef41e5-8a06-426a-977b-b61fb8e35462
-
