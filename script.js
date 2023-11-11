@@ -74,14 +74,14 @@ class Effect {
     this.width = width
     this.height = height
     this.particle = []
-    this.numberOfParticle = 600
-    this.cellSize = 0.9
+    this.numberOfParticle = 10000
+    this.cellSize = 30
     this.rows
     this.cols
     this.flowField = []
-    this.curve = 24
-    this.zoom = 0.98
-    this.color = ["blue", "red", "purple", "green", "yellow", "pink"]
+    this.curve = 2.3
+    this.zoom = 0.23
+    this.color = ["blue", "red", "purple", "green", "yellow", "pink", "white"]
     this.init()
   }
 
